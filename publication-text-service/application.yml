@@ -6,8 +6,3 @@ server:
 service:
   censoring-text:
     url: http://localhost:8028
-
-eureka:
-  client:
-    service-url:
-      default-zone: http://localhost:8761/eureka
