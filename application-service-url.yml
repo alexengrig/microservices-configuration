@@ -1,0 +1,7 @@
+service:
+  censoring-text:
+    url: http://localhost:8028
+  publication-text-service:
+    url: http://localhost:8008
+  rating-text-service:
+    url: http://localhost:8018
