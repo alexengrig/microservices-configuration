@@ -1,2 +1,2 @@
 server:
-  port: 8008
+  port: ${PUBLICATION_TEXT_SERVICE_PORT:8008}

@@ -1,5 +1,5 @@
 server:
-  port: 8028
+  port: ${CENSORING_TEXT_SERVICE_PORT:8028}
 
 censoring:
   text:

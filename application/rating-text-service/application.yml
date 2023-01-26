@@ -1,2 +1,2 @@
 server:
-  port: 8018
+  port: ${RATING_TEXT_SERVICE_PORT:8018}
