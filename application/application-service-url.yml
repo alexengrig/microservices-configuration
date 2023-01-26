@@ -1,7 +1,0 @@
-service:
-  censoring-text:
-    url: ${CENSORING_TEXT_SERVICE_URL}
-  publication-text-service:
-    url: ${PUBLICATION_TEXT_SERVICE_URL}
-  rating-text-service:
-    url: ${RATING_TEXT_SERVICE_URL}
